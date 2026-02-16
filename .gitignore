@@ -1,0 +1,8 @@
+node_modules/
+.env
+PLAN.md
+brief.pdf
+Fichiers utiles.zip
+fichiers_utiles/
+package.json
+package-lock.json
