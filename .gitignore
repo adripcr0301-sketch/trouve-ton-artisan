@@ -1,8 +1,11 @@
 node_modules/
+server/node_modules/
 .env
+server/.env
 PLAN.md
+wireframes.md
 brief.pdf
 Fichiers utiles.zip
 fichiers_utiles/
-package.json
-package-lock.json
+/package.json
+/package-lock.json
